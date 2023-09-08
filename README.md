@@ -22,7 +22,7 @@ Ensure you have the following prerequisites in place before proceeding:
 
 1. Begin by creating a new directory. Navigate to this directory in your terminal and clone the GitHub repository:
     ```bash
-    git clone https://github.com/aliyevom/AWS-cloudcraft.git
+    git clone https://github.com/aliyevom/AWS-Amazon-S3-to-SQS-to-AWS-Lambda.git
     ```
 
 2. Change your working directory to the pattern directory:
