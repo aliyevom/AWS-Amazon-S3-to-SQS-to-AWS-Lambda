@@ -1,5 +1,4 @@
-![image](https://github.com/aliyevom/AWS-cloudcraft/blob/main/S3-SNS-SQS-Lambda-S3.png?raw=true)
-
+ ![Alt text](draw.io/S3-SNS-SQS-Lambda-S3.png)
 
 # AWS Amazon S3 to SQS to AWS Lambda - Create a Lambda Function for Image Resizing on S3 Uploads via SQS Notifications
 
